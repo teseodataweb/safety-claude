@@ -1,0 +1,22 @@
+# Archivos temporales y de desarrollo
+*.py
+hts-cache/
+hts-log.txt
+cookies.txt
+HOME.txt
+*.zip
+
+# Archivos de imagen RAW (muy grandes)
+"Selección "/*
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de backup
+*-backup.*
+*-old.*
